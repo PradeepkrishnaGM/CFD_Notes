@@ -46,4 +46,5 @@ Where:
 
 ---
 
-Next: To be continued...
+Prev :[Fundamentals - Part III](Fundamental_Part01.md)
+Next :[Discretization](Discretization.md)
