@@ -31,3 +31,5 @@
 ---
 <-- Previous: [Introduction](introduction.md) -->
 <-- Next: [Fundamentals - Part II](Fundamental_Part02.md) -->
+
+<p align="right">text</p>
