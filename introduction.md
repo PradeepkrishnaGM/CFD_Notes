@@ -4,6 +4,8 @@
 
 Computational Fluid Dynamics (CFD) is a branch of fluid mechanics that uses numerical analysis and algorithms to solve and analyze problems involving fluid flows. CFD employs computational resources to simulate the interaction of fluids (liquids and gases) with surfaces and external forces.
 
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+
 ## What is Simulation?
 
 Simulation in CFD refers to the use of computer-based models to replicate the behavior of fluid flows in various scenarios. By solving the fundamental equations governing fluid motion, simulations provide insights into the characteristics of fluid dynamics without physical testing.
