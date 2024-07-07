@@ -5,7 +5,7 @@
 The principle of mass conservation states that mass cannot be created or destroyed. In fluid dynamics, this is expressed as the continuity equation.
 
 ### Continuity Equation
-\[ \frac{\partial \rho}{\partial t} + \nabla \cdot (\rho \mathbf{u}) = 0 \]
+$\[ \frac{\partial \rho}{\partial t} + \nabla \cdot (\rho \mathbf{u}) = 0 \]$
 Where:
 - \( \rho \) is the fluid density
 - \( \mathbf{u} \) is the velocity vector
