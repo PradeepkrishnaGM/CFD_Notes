@@ -29,7 +29,7 @@
 ### Multi-Grid Methods
 
 ---
-<-- Previous: [Introduction](introduction.md) -->
-<-- Next: [Fundamentals - Part II](Fundamental_Part02.md) -->
+Previous: [Introduction](introduction.md) <p align="right">Next: [Fundamentals - Part II](Fundamental_Part02.md)</p>
+
 
 <p align="right">text</p>
