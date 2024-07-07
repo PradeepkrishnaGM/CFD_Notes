@@ -59,4 +59,4 @@ Boundary conditions specify the values or behavior of the solution at the bounda
 ---
 
 Prev :[Fundamentals - Part III](Fundamental_Part01.md)
-Next :[Discretization](Discretization.md)
+Next :[Effects](Effects.md)
