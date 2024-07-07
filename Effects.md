@@ -17,4 +17,5 @@ The choice of interpolation method can impact the stability and accuracy of the 
 
 ---
 
-Next: [Meshing Basics](Meshing_Basics.md)
+Prev :[Discretization](Discretization.md)
+Next :[Meshing Basics](Meshing_Basics.md)
