@@ -28,23 +28,33 @@ Volume integrals are typically approximated using:
 
 ### Upwind Differencing Scheme (UDS)
 - **First-order UDS**: 
-  $\[ \phi_i = \phi_{i-1} \]$
+  $$
+  \phi_i = \phi_{i-1}
+  $$
 
 ### Second-order Upwind Differencing Scheme (Second-order UDS)
 - **Formula**: 
-  $\[ \phi_i = 2\phi_{i-1} - \phi_{i-2} \]$
+  $$
+  \phi_i = 2\phi_{i-1} - \phi_{i-2}
+  $$
 
 ### Central Differencing Scheme (CDS)
 - **Formula**: 
-  $\[ \phi_i = \frac{\phi_{i+1} + \phi_{i-1}}{2} \]$
+  $$
+  \phi_i = \frac{\phi_{i+1} + \phi_{i-1}}{2}
+  $$
 
 ### QUICK Scheme
 - **Formula**: 
-  $\[ \phi_i = \frac{3}{8}\phi_{i+1} + \frac{6}{8}\phi_i - \frac{1}{8}\phi_{i-1} \]$
+  $$
+  \phi_i = \frac{3}{8}\phi_{i+1} + \frac{6}{8}\phi_i - \frac{1}{8}\phi_{i-1}
+  $$
 
 ### Power Law Interpolation
 - **Formula**: 
-  $\[ \phi_i = \phi_P + \frac{\phi_E - \phi_P}{\exp(Pe) - 1} \]$
+  $$
+  \phi_i = \phi_P + \frac{\phi_E - \phi_P}{\exp(Pe) - 1}
+  $$
 
 ## Boundary Conditions
 
