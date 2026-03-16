@@ -9,3 +9,6 @@ This repository provides an introduction to the fundamental concepts of Computat
 - [Fundamental - Part I](Fundamental_Part01.md)
 - [Fundamental - Part II](Fundamental_Part02.md)
 - [Fundamental - Part III](Fundamental_Part03.md)
+- [Discretization](Discretization.md)
+- [Effects of Discretization](Effects.md)
+
