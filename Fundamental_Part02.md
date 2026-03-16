@@ -163,7 +163,5 @@ $$
 
 ---
 
-## Navigation
-
 Previous: [Fundamentals - Part I](Fundamental_Part01.md)  
 Next: [Fundamentals - Part III](Fundamental_Part03.md)
