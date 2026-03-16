@@ -30,21 +30,12 @@ Momentum conservation in fluid dynamics is described by the Navier–Stokes equa
 ### Navier–Stokes Equation
 
 $$
-\frac{\partial (\rho \mathbf{u})}{\partial t}
-+
-\nabla \cdot (\rho \mathbf{u}\mathbf{u})
-=
--\nabla p
-+
-\nabla \cdot \boldsymbol{\tau}
-+
-\rho \mathbf{f}
+\frac{\partial (\rho \mathbf{u})}{\partial t} + \nabla \cdot (\rho \mathbf{u} \mathbf{u}) = -\nabla p + \nabla \cdot \mathbf{\tau} + \rho \mathbf{f}
 $$
 
 Where:
-
 - $p$ is the pressure
-- $\boldsymbol{\tau}$ is the stress tensor
+- $\mathbf{\tau}$ is the stress tensor
 - $\mathbf{f}$ is the body force per unit volume
 
 ---
@@ -56,13 +47,7 @@ In CFD, scalar quantities such as temperature, concentration, or species mass fr
 ### Scalar Transport Equation
 
 $$
-\frac{\partial (\rho \phi)}{\partial t}
-+
-\nabla \cdot (\rho \phi \mathbf{u})
-=
-\nabla \cdot (\Gamma_\phi \nabla \phi)
-+
-S_\phi
+\frac{\partial (\rho \phi)}{\partial t} + \nabla \cdot (\rho \phi \mathbf{u}) = \nabla \cdot (\Gamma_\phi \nabla \phi) + S_\phi
 $$
 
 Where:
@@ -80,13 +65,7 @@ Energy conservation accounts for changes in internal, kinetic, and thermal energ
 ### Energy Equation
 
 $$
-\frac{\partial (\rho E)}{\partial t}
-+
-\nabla \cdot (\rho E \mathbf{u})
-=
-\nabla \cdot (k \nabla T)
-+
-\Phi
+\frac{\partial (\rho E)}{\partial t} + \nabla \cdot (\rho E \mathbf{u}) = \nabla \cdot (k \nabla T) + \Phi
 $$
 
 Where:
